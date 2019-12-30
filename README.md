@@ -2,7 +2,7 @@
 Convert python script in multilevel base64 encoded script which works as seamlessly as you original script.
 
 
-##How to use
+## How to use
 ```
 $ python3 Encoder.py -h
 usage: Encoder.py [-h] [-o [OUTPUT]] [-f] [code] level
@@ -18,7 +18,7 @@ optional arguments:
   -o [OUTPUT], --output [OUTPUT]
 ```
 
-##Usage
+## Usage
 ```
 python3 Encoder.py TestFile.py 30
 ```
